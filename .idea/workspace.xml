@@ -46,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0003365223396161" />
-      <entry key="MS500" value="1.3651639551521488" />
-      <entry key="S2" value="3.4652036407393974" />
-      <entry key="S5" value="4.984566543664745" />
-      <entry key="S10" value="6.166791863591102" />
-      <entry key="S30" value="8.572483953947748" />
-      <entry key="S60" value="14.114069651095887" />
-      <entry key="M2" value="28.860103087602557" />
-      <entry key="M5" value="58.63411782934911" />
-      <entry key="M10" value="79.31595609287834" />
-      <entry key="M15" value="89.64537462324444" />
-      <entry key="M30" value="107.50720195289922" />
-      <entry key="H1" value="146.8999861354643" />
-      <entry key="H2" value="257.85054537035927" />
-      <entry key="H4" value="508.62753439237594" />
-      <entry key="D1" value="1555.0638566658429" />
-      <entry key="W1" value="2020.611739996227" />
+      <entry key="MS100" value="1.5948909901621482" />
+      <entry key="MS500" value="3.4872515558548915" />
+      <entry key="S2" value="6.606599423174823" />
+      <entry key="S5" value="11.197619807402535" />
+      <entry key="S10" value="14.850089181081758" />
+      <entry key="S30" value="18.58361602375347" />
+      <entry key="S60" value="20.23363687751538" />
+      <entry key="M2" value="25.207361818544403" />
+      <entry key="M5" value="49.74623553557493" />
+      <entry key="M10" value="82.80221440783416" />
+      <entry key="M15" value="103.23248653590657" />
+      <entry key="M30" value="136.31927265914265" />
+      <entry key="H1" value="184.23604686041753" />
+      <entry key="H2" value="297.98494403750516" />
+      <entry key="H4" value="549.3876630825685" />
+      <entry key="D1" value="1603.4287317502208" />
+      <entry key="W1" value="2075.1961900693536" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.0030846026685266E-119" />
-      <entry key="S5" value="2.5149828368505632E-48" />
-      <entry key="S10" value="1.5858697414512208E-24" />
-      <entry key="S30" value="1.1661538155829027E-8" />
-      <entry key="S60" value="1.079887448761848E-4" />
-      <entry key="M2" value="0.010404196187444838" />
-      <entry key="M5" value="0.17579604084989467" />
-      <entry key="M10" value="0.5937342220962979" />
-      <entry key="M15" value="1.0166525548696648" />
-      <entry key="M30" value="2.0500676751085387" />
-      <entry key="H1" value="3.9533467430142015" />
-      <entry key="H2" value="7.505148019066423" />
-      <entry key="H4" value="13.100585726656375" />
-      <entry key="D1" value="30.562251603933532" />
-      <entry key="W1" value="37.59702682558796" />
+      <entry key="S2" value="9.459920249834191E-211" />
+      <entry key="S5" value="9.780363361730393E-85" />
+      <entry key="S10" value="9.88957196330072E-43" />
+      <entry key="S30" value="9.963054324255957E-15" />
+      <entry key="S60" value="9.981523277062777E-8" />
+      <entry key="M2" value="3.1631347847603514E-4" />
+      <entry key="M5" value="0.04346831004310419" />
+      <entry key="M10" value="0.29523912862700863" />
+      <entry key="M15" value="0.6381073960760116" />
+      <entry key="M30" value="1.624159994156347" />
+      <entry key="H1" value="3.518805101539101" />
+      <entry key="H2" value="7.080670986139247" />
+      <entry key="H4" value="12.724721612554887" />
+      <entry key="D1" value="30.414331564368066" />
+      <entry key="W1" value="37.57097730453123" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9595802815558085" />
-      <entry key="MS500" value="1.3483666204038682" />
-      <entry key="S2" value="3.4405782752129253" />
-      <entry key="S5" value="4.967516658762113" />
-      <entry key="S10" value="6.155091112427713" />
-      <entry key="S30" value="8.566728546269053" />
-      <entry key="S60" value="14.108749009799153" />
-      <entry key="M2" value="28.861311475701264" />
-      <entry key="M5" value="58.798447455004315" />
-      <entry key="M10" value="79.90013417615344" />
-      <entry key="M15" value="90.65387251655196" />
-      <entry key="M30" value="109.55116227722763" />
-      <entry key="H1" value="150.84751500759322" />
-      <entry key="H2" value="265.34844537801735" />
-      <entry key="H4" value="521.7195850080192" />
-      <entry key="D1" value="1585.6214236583621" />
-      <entry key="W1" value="2058.207894934515" />
+      <entry key="MS100" value="1.5365810139574938" />
+      <entry key="MS500" value="3.458788941303868" />
+      <entry key="S2" value="6.5910464833297375" />
+      <entry key="S5" value="11.18396955180791" />
+      <entry key="S10" value="14.83984354015512" />
+      <entry key="S30" value="18.5789273654322" />
+      <entry key="S60" value="20.230190785799536" />
+      <entry key="M2" value="25.202947176839242" />
+      <entry key="M5" value="49.78232541211665" />
+      <entry key="M10" value="83.08947654244706" />
+      <entry key="M15" value="103.86305202452091" />
+      <entry key="M30" value="137.9372264666725" />
+      <entry key="H1" value="187.74894678448146" />
+      <entry key="H2" value="305.05840226950977" />
+      <entry key="H4" value="562.1039042332841" />
+      <entry key="D1" value="1633.8383692642335" />
+      <entry key="W1" value="2112.766291493155" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -162,7 +162,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\2015r\IdeaProjects\Udemy_Exercicios\.venv\calculadora_simples.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\2015r\IdeaProjects\Udemy_Exercicios\calculadora_simples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +187,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/lista_de_compras.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\2015r\IdeaProjects\Udemy_Exercicios\lista_de_compras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +212,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/palavraSecreta.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\2015r\IdeaProjects\Udemy_Exercicios\palavraSecreta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +262,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <module name="" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/tipo_list.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\2015r\IdeaProjects\Udemy_Exercicios\tipo_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
