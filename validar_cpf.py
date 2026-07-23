@@ -4,7 +4,8 @@ def gerar_cpf(cpf):
     cont_regressivo = 10
     soma_resultados = 0
 
-# A soma dos 9 primeiros digitos do cpf multiplicando cada digito por uma contagem regressiva partindo de 10
+# A soma dos 9 primeiros digitos do cpf multiplicando cada digito por
+    # uma contagem regressiva partindo de 10
 
     for digito_1 in cpf_nove_digitos:
         resultado = int(digito_1) * int(cont_regressivo)
@@ -29,7 +30,8 @@ def gerar_cpf(cpf):
     cont_regressivo_2 = 11
     soma_resultados_2 = 0
 
-# A soma dos 10 primeiros digitos do cpf multiplicando cada digito por uma contagem regressiva partindo de 11
+# A soma dos 10 primeiros digitos do cpf multiplicando cada digito por
+    # uma contagem regressiva partindo de 11
     for digito_2 in cpf_10_digitos:
         resultado_2 = int(digito_2) * int(cont_regressivo_2)
         soma_resultados_2 += resultado_2
@@ -56,18 +58,22 @@ opcao = int(input('1 - Gerar CPF.\n2 - Validar CPF.\n'))
 
 if opcao == 1:
     cpf_nove_digitos = ''
+# Gera nove digitos aleatorios
     sample = random.sample(range(9),9)
+# Percorre a variavel Sample e armazena os valores na variavel cpf_nove_digitos
     for i in sample:
         cpf_nove_digitos += str(i)
+# chama a funcao gerar_cpf() pela variavel cpf_nove_digitos
     print(f"O CPF gerado é {gerar_cpf(cpf_nove_digitos)}")
 
 elif opcao == 2:
     print('___VALIDADOR DE CPF___ \n')
 
     cpf_usuario = input('Insira um CPF para validar: ')
+# Formatacao do cpf digitado removendo . e -
     cpf_usuario_formatado = cpf_usuario.replace('-','.').replace('.','')
     cpf_nove_digitos = str(cpf_usuario_formatado[:9])
-
+# A funcao valida os dois digitos e verifica se o resultado da funcao e igual ao cpf informado
     if cpf_usuario_formatado == gerar_cpf(cpf_nove_digitos):
         print(f'O CPF {cpf_nove_digitos} é válido ✔')
     else:
